@@ -1,4 +1,4 @@
-# Release NaN.1.2-alpha.1 
-### Changes from version v0.1.1 
+# Release NaN.1.2-alpha.2 
+### Changes from version NaN.1.2-alpha.1 
 
-* 668f8c0 added file 1 `2018-12-18` (@Mohanrau) #2
+* 2b7e52a added file2 `2018-12-18` (rasmatius@gmail.com) 
